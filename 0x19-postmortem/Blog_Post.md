@@ -1,6 +1,7 @@
 # 🚨 Outage Postmortem: The Day Our Database Said "Nope" 🚨
 
-![Database Crash Meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2Fdi2shq%2Fwell_thats_interesting_lets_take_rest_of_the_day%2F&psig=AOvVaw3tIWBDzOlsjCwcxf-X2Osz&ust=1717998840699000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjS4MvqzYYDFQAAAAAdAAAAABAE)
+![Database Crash Meme]
+![7zhsce11xms31](https://github.com/Psybah/alx-system_engineering-devops/assets/144453344/04f7a131-8e9e-445d-aa7c-3b3a24900bff)
 
 ## Issue Summary
 
