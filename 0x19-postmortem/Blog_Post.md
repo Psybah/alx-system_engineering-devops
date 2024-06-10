@@ -1,6 +1,6 @@
 # 🚨 Outage Postmortem: The Day Our Database Said "Nope" 🚨
 
-![Database Crash Meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2Fdi2shq%2Fwell_thats_interesting_lets_take_rest_of_the_day%2F&psig=AOvVaw3tIWBDzOlsjCwcxf-X2Osz&ust=1717998840699000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjS4MvqzYYDFQAAAAAdAAAAABAE)
+![7zhsce11xms31](https://github.com/Psybah/alx-system_engineering-devops/assets/144453344/04f7a131-8e9e-445d-aa7c-3b3a24900bff)
 
 ## Issue Summary
 
@@ -52,4 +52,5 @@ Our primary database server got overwhelmed by a sudden traffic surge, leading t
 
 Our website went kaput for two hours because the database couldn't handle a traffic spike. We fixed it by adding more database nodes and tweaking our load balancer. We're also upgrading our infrastructure and monitoring to prevent this from happening again. Thanks for bearing with us, and stay tuned for more robust service! 💪
 
-![Happy Database](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeameme.org%2Fmeme%2Fthis-database-makes&psig=AOvVaw07w8vSt6oWuNo9PGWEB42u&ust=1717998739506000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCClprqzYYDFQAAAAAdAAAAABAE)
+![this-database-makes](https://github.com/Psybah/alx-system_engineering-devops/assets/144453344/1a7c0b80-da8c-46d1-8792-d2fe39446506)
+
